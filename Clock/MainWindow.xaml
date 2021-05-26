@@ -395,6 +395,19 @@
                 <EasingDoubleKeyFrame KeyTime="10:00:00" Value="210"/>
                 <EasingDoubleKeyFrame KeyTime="11:00:00" Value="240"/>
                 <EasingDoubleKeyFrame KeyTime="12:00:00" Value="270"/>
+                <EasingDoubleKeyFrame KeyTime="13:00:00" Value="-60"/>
+                <EasingDoubleKeyFrame KeyTime="14:00:00" Value="-30"/>
+                <EasingDoubleKeyFrame KeyTime="15:00:00" Value="-00"/>
+                <EasingDoubleKeyFrame KeyTime="16:00:00" Value="30"/>
+                <EasingDoubleKeyFrame KeyTime="17:00:00" Value="60"/>
+                <EasingDoubleKeyFrame KeyTime="18:00:00" Value="90"/>
+                <EasingDoubleKeyFrame KeyTime="19:00:00" Value="120"/>
+                <EasingDoubleKeyFrame KeyTime="20:00:00" Value="150"/>
+                <EasingDoubleKeyFrame KeyTime="21:00:00" Value="180"/>
+                <EasingDoubleKeyFrame KeyTime="22:00:00" Value="210"/>
+                <EasingDoubleKeyFrame KeyTime="23:00:00" Value="240"/>
+                <EasingDoubleKeyFrame KeyTime="24:00:00" Value="270"/>    
+                    
             </DoubleAnimationUsingKeyFrames>
         </Storyboard>
     </Window.Resources>
